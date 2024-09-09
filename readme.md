@@ -52,3 +52,5 @@
 **Dataset:** https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 **Google Colab Jupyter Notebook:** https://colab.research.google.com/drive/18pUqfzGeb1vklFXt5zg4bAr0GbQ0Qxsk?usp=sharing
+
+_@Copyright_ **Nishant Pandey & Prashant Pandey June@2024**
