@@ -49,5 +49,6 @@
 ![Kmeans_project-images-46](https://github.com/user-attachments/assets/fa5c18e4-4335-4b7e-b1ff-0c953193ebbe)
 
 
-Dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
-Google Colab Jupyter Notebook: https://colab.research.google.com/drive/18pUqfzGeb1vklFXt5zg4bAr0GbQ0Qxsk?usp=sharing
+**Dataset:** https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+
+**Google Colab Jupyter Notebook:** https://colab.research.google.com/drive/18pUqfzGeb1vklFXt5zg4bAr0GbQ0Qxsk?usp=sharing
